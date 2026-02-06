@@ -1,4 +1,4 @@
-[8:50 p. m., 5/2/2026] 𝓟 𝓲 ñ 𝓲 𝓽 𝓪 💫: <p align="center">
+: <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600">
 </p>
 
