@@ -1,34 +1,34 @@
-<h1 align="center">⚡ h4CkE2 | Cybersecurity Student ⚡</h1>
+[8:50 p. m., 5/2/2026] 𝓟 𝓲 ñ 𝓲 𝓽 𝓪 💫: <p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600">
+</p>
+
+<h1 align="center">MAX // CYBERSECURITY</h1>
 
 <p align="center">
-🛡️ Ethical Hacking | 🌐 Networking | 🐧 Linux | ☁️ DevOps
+<code>Ethical Hacking</code> | <code>Networking</code> | <code>Linux</code> | <code>Automation</code>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a cybersecurity student focused on:
-
-- Pentesting & Network attacks
-- Linux administration
-- Cisco Networking labs
-- Automation with Ansible & Terraform
-- Docker projects
-- Active Directory (Samba)
-
-📍 Dominican Republic
-
----
-
-## ⚙️ Skills
+## 🧠 WHOAMI
 
 ```bash
-✔ Kali Linux
-✔ CentOS
-✔ Cisco Packet Tracer
-✔ Scapy (Network Attacks)
-✔ SSH, DNS, DHCP, Samba
-✔ Docker
-✔ Ansible
-✔ Terraform
+> Student of Cybersecurity
+> Network attacker & defender
+> Linux Administrator
+> DevOps learner
+> SOC / Pentester in progress
+[8:50 p. m., 5/2/2026] 𝓟 𝓲 ñ 𝓲 𝓽 𝓪 💫: Kali Linux        ██████████
+CentOS           ██████████
+Cisco Networking ██████████
+Scapy Attacks    ██████████
+Docker           █████████░
+Ansible          █████████░
+Terraform        ████████░░
+Active Directory █████████░
+[8:51 p. m., 5/2/2026] 𝓟 𝓲 ñ 𝓲 𝓽 𝓪 💫: $ sudo hack_the_world
+Access granted...
+[8:51 p. m., 5/2/2026] 𝓟 𝓲 ñ 𝓲 𝓽 𝓪 💫: <p align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="400">
+</p>
+```
