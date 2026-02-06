@@ -1,11 +1,26 @@
- <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600">
-</p>
-
-<h1 align="center">h4CkE2// CYBERSECURITY</h1>
+<h1 align="center">h4CkE2 (Reily Castillo) — Cybersecurity & Networking</h1>
 
 <p align="center">
-<code>Ethical Hacking</code> | <code>Networking</code> | <code>Linux</code> | <code>Automation</code>
+Hi 👋, I'm Reily 
+</p>
+
+<p align="center">
+Cybersecurity Student · Networking · Linux · Automation · 🇩🇴
 </p>
 
 ---
+
+## 👨‍💻 Sobre mí
+
+- Nombre: Max (Reily Castillo Del Rosario)  
+- Enfoque: Ciberseguridad, Redes, Administración Linux, Automatización  
+- Actual: practicando laboratorios de redes complejas, ataques con Scapy, servicios en Linux y DevOps  
+- Experiencia:  
+  - Topologías avanzadas en Cisco (OSPF, VLAN, STP, Inter-VLAN)  
+  - Servicios Linux (DNS, DHCP, FTP, Mail, Samba AD, HA Cluster)  
+  - Docker, Ansible, Terraform  
+- Objetivo: crecer como profesional en ciberseguridad y redes y trabajar en Blue Team / Infraestructura segura  
+
+---
+
+## 🛠️ Lenguajes y Herramientas
