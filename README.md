@@ -1,26 +1,56 @@
-<h1 align="center">h4CkE2 (Reily Castillo) — Cybersecurity & Networking</h1>
+<p align="center">
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="700">
+</p>
+
+<h1 align="center">[ Reily // CYBERSECURITY ]</h1>
 
 <p align="center">
-Hi 👋, I'm Reily 
+<code>root@max:~# whoami</code>
 </p>
 
 <p align="center">
-Cybersecurity Student · Networking · Linux · Automation · 🇩🇴
+Cybersecurity Student | Network Engineer | Linux Admin | Automation 🇩🇴
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👁️ ACCESS GRANTED
 
-- Nombre: Max (Reily Castillo Del Rosario)  
-- Enfoque: Ciberseguridad, Redes, Administración Linux, Automatización  
-- Actual: practicando laboratorios de redes complejas, ataques con Scapy, servicios en Linux y DevOps  
-- Experiencia:  
-  - Topologías avanzadas en Cisco (OSPF, VLAN, STP, Inter-VLAN)  
-  - Servicios Linux (DNS, DHCP, FTP, Mail, Samba AD, HA Cluster)  
-  - Docker, Ansible, Terraform  
-- Objetivo: crecer como profesional en ciberseguridad y redes y trabajar en Blue Team / Infraestructura segura  
+```bash
+User: Max (Reily Castillo)
+Role: Cybersecurity / Networking
+Status: Learning • Building • Attacking • Defending
+Location: Dominican Republic
 
----
+[+] Kali Linux
+[+] CentOS Linux
+[+] Cisco Packet Tracer
+[+] Python
+[+] Scapy Attacks
+[+] Docker
+[+] Ansible
+[+] Terraform
+[+] Samba Active Directory
+[+] DNS | DHCP | SSH | FTP | Mail Servers
 
-## 🛠️ Lenguajes y Herramientas
+> Complex Cisco Networks (OSPF, VLANs, STP, Inter-VLAN)
+> Network Attacks with Scapy
+> Linux Services Deployment
+> Dockerized Cyber Projects
+> Infrastructure Automation
+> Active Directory in Linux
+
+- Advanced Networking Security
+- Linux Hardening
+- SOC & SIEM basics
+- Automation for Infrastructure
+
+
+<p align="center">
+<code>root@max:~# exit</code>
+</p>
+
+<p align="center">
+<code>Session closed.</code>
+</p>
+```
